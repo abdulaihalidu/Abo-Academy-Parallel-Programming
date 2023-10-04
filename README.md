@@ -1,2 +1,1 @@
-# Abo-Academy-Parallel-Programming
-Parallel Programming Implementation of various programs
+# Parallel Programming Implementation of various programs
